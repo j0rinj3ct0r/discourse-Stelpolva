@@ -9,13 +9,12 @@ body {
 :root {
     --card-background-color: rgba(var(--secondary-rgb), 0.9);
     --active-card-background-color: rgba(var(--secondary-rgb), 1);
-    --normal-box-shadow-color: rgba(var(--primary-rgb), 0.2);
-    --active-box-shadow-color: rgba(var(--primary-rgb), 0.25);
+    --normal-box-shadow-color: rgba(255, 0, 0, 0.2); /* Change to red with 0.2 opacity */
+    --active-box-shadow-color: rgba(255, 0, 0, 0.25); /* Change to red with 0.25 opacity */
     --small-radius: 8px;
     --round-radius: 800px;
     --post-title-background: rgba(var(--primary-rgb), 0.043);
     --d-input-border-radius: 30px;
-    
 }
 
 
