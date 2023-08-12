@@ -736,7 +736,11 @@ nav.post-controls .d-icon-ellipsis-h {
 
 
 /* 顶栏按钮 */
-
+.d-header {
+border-bottom: 5px inset var(--tertiary);
+box-shadow: 0 -30px 100px -1px var(--tertiary);
+    
+}
 .d-header-icons .icon {
     border-radius: 100px;
     /* nav icon */
