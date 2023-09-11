@@ -737,10 +737,10 @@ nav.post-controls .d-icon-ellipsis-h {
 
 /* 顶栏按钮 */
 .d-header {
-//border-bottom: 5px inset var(--tertiary);
-//box-shadow: 0 -30px 100px -1px var(--tertiary);
-border-bottom: 5px inset #00dfdf;
-box-shadow: 0 -30px 100px -1px #00cfff;
+border-bottom: 5px inset var(--tertiary);
+box-shadow: 0 -30px 100px -1px var(--tertiary);
+//border-bottom: 5px inset #00dfdf;
+//box-shadow: 0 -30px 100px -1px #00cfff;
 }
 .d-header-icons .icon {
     border-radius: 100px;
